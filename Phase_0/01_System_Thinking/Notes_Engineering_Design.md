@@ -107,6 +107,37 @@ Synthesis and Analysis will occur continually throughout the design process but 
 
 The cycles of synthesis and analysis are an iterative process which needs to be closely monitored and all prior assembly designs need to be maintained to see the development of the project. The system used for this can be as important as the actual synthesis/analysis cycle. 
 
-##### *1.2.6 - Organizational/Work Breakdown Structure* 
+##### *1.2.6 - Organizational/Work Breakdown Structure (WBS)* 
 
-pg.13
+The Work Breakdown Structure (WBS) is an organizational tool for management to distribute resources and assess what tasks need to be completed in order for the main objective to be accomplished. 
+
+The WBS starts by assessing the problem structure for the objective and breaking it down into discrete components related to what departments will need to do what to accomplish them. 
+
+The easiest way it seems to start this process is to start from Level 1 (highest level overview) and then break it down into overarching sections (Level 2), break those sections down into discrete projects (Level 3) and so on. 
+
+The command structure must also be integrated into this at every level with one person overall being responsible for everything and then have delegated leadership down the different Level chains. 
+
+Factors that apply in WBS creation: 
+- Task Complexity
+- Time Commitment
+- Financial Requirements (and how those relate to the larger project) 
+- Organizational Structure
+- Contract Management
+- Contractor and Customer Management
+- etc.
+
+Not everything requires the same level of stringency but rule of thumb, the more complex the project becomes and the greater number of failure vectors, the more formalized the WBS needs to be. 
+
+##### *1.2.7 - Preliminary Design* 
+
+The preliminary design is the first point at which concept meets detailed design. (Also called embodiment design in some areas of the world - Europe) 
+
+The point of preliminary design is to make a design that achieves the objectives and the preliminary design should break down the requirements from system level(s) to component level(s) if possible. 
+
+Balancing the various considerations here is important, if the requirements are too stringent it may result in ballooning costs but on the otherside if they are too lax the objective may not be achieved or be achieved badly. Interactions with contractors or suppliers is also a limiting factor here and relations between these and the main group can be a complication if bad leadership is employed here. 
+
+The Preliminary Design is often done by a smaller detached group of interdisciplinary engineers which encourages close cooperation between these different engineers. This also tends to reduce the costs associated as the plans can work to reduce having to redo other work. 
+
+##### *1.2.8 - Detailed Design* 
+
+
