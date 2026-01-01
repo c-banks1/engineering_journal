@@ -140,4 +140,10 @@ The Preliminary Design is often done by a smaller detached group of interdiscipl
 
 ##### *1.2.8 - Detailed Design* 
 
+The Detailed Design is the point at which the preliminary design has individual components attached to it and it is prepared for either prototype or manufacturing production. 
+
+The Detailed Design is a schematic or specification drawing that is (or portions of is) given to suppliers to acquire parts from. 
+
+The components themselves are acquired from other suppliers who must be ethical, reliable and capable. A trend that shows promise is the choice to go with suppliers that have established QC programs rather than just the lower bidder. These examined suppliers tend to get enduring contracts or relationships with a company for future operations. 
+
 
