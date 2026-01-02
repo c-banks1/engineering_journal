@@ -164,3 +164,12 @@ The next questions are about production, can the product be produced with materi
 
 ##### *1.2.9 - Production Planning and Tooling Design*
 
+At this point in the country, engineering manufacturing study and practices has taken a backseat to theory which is not good as 40% of design engineers are involved in production. Knowledge and experience in assembly practices, welding, foundry operations, etc. Are key for an applied engineer. 
+
+To this effect knowledge of tools of the trade is critical. The term in the field is *Tooling* which is related to all physical instrumentation which is used to manufacture, position, measure or guide the manufacturing process. There is a subclass of tools which are called *numerically controlled* (NC) tools which can be programmed to perform certain motions, think a CNC machine. 
+
+Sharing information with operations and manufacturing personnel is critical as they can greatly reduce costs associated with this, along with more formal analysis of these factors which is called *producibility analysis*. This culiminates in production line flow, the ordering of procedures to best achieve the production requirements with minimal costs. 
+
+**Production Control** 
+- Scheduling work
+- Controlling inventory 
