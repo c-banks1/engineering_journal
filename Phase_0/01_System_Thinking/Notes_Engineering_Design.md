@@ -146,4 +146,21 @@ The Detailed Design is a schematic or specification drawing that is (or portions
 
 The components themselves are acquired from other suppliers who must be ethical, reliable and capable. A trend that shows promise is the choice to go with suppliers that have established QC programs rather than just the lower bidder. These examined suppliers tend to get enduring contracts or relationships with a company for future operations. 
 
+The detailed design schematics are given to the manufacturing team so that they can create and package the system. Usually this is made showing a cross section of the system. A *next assembly* drawing is also provided which shows how the prior schematic integrates with the larger system. These *next assembly* drawings culminate in the *final* or *top assembly* drawings which show a finished product in addition to a Bill of Materials showing all parts involved in their pertinent information. 
+
+The assembly drawings typically do not show dimensions, these come in the installation drawings which are more critical for integrating assemblies into larger systems. 
+
+It is hard to state the importance of the advent of **Computer Aided Design (CAD)** in the modern period as CAD removes a lot of the complications that might be in the design process from version control to computer simulation of intended design. CAD works in concert with design engineers and prevents wasting lots of time with many different prototypes and emperical testing that is costly and time consuming. **CAM (Computer Aided Manufacturing)** is a byproduct of this. This does not mean that you do not need to know how to read these schematics, it just makes it more quick to utilize them and reduce costs. 
+
+Despite emperical testing being less involved with CAD and CAM, that does not mean it is without utility. The process is called *Development Testing* which must be well planned and tightly controlled to avoid costs ballooning, consider using cost saving measures and clear testing requirements. This process is usually controlled by the Product Manager. 
+
+At some point after designs begin, a configuration control board (CCB) will impose a *Design Freeze* after which point changes in design will be much more difficult to impose and formalized. This point is determined by an interdisciplinary CCB which determine the time of the freeze based on customer, cost, coordination and other metrics that they need to consider. It is good to know when this point will occur because if one doesn't, there is a good chance dificiences will be more difficult to correct. 
+
+Cost estimation is another factor which is considered but the estimation for these parameters become more precise as time progresses through the design process. Much of the cost originates from tools and materials but labor is another big factor. 
+
+One of the last steps in the detailed design is *Qualification Testing* which tests the product to see if it meets all design requirements. The scale of the qualification testing depends on the requirements but also on complexity of the system and if each sub-system must fulfill certain requirements. 
+
+The next questions are about production, can the product be produced with materials and procedures that exist? 
+
+##### *1.2.9 - Production Planning and Tooling Design*
 
