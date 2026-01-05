@@ -172,4 +172,9 @@ Sharing information with operations and manufacturing personnel is critical as t
 
 **Production Control** 
 - Scheduling work
-- Controlling inventory 
+- Controlling inventory
+- Comuputer Integrated Manufacturing (CIM)
+- Just-In-Time (JIT) Systems (Minimal Inventory - continuous output, requires high supplier integrity and efficiency)
+
+##### *1.2.10 - Production*
+
