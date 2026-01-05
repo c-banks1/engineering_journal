@@ -178,3 +178,97 @@ Sharing information with operations and manufacturing personnel is critical as t
 
 ##### *1.2.10 - Production*
 
+Qualification testing conclides the design process but support is still required. 
+- Many problems or production corrections arise during the manufacturing process.
+
+Issues that arise are collated by quality control personnel (static or roaming):
+- Responsibility of inspectors is observe for parts or poor work practices.
+
+##### *1.2.11 - Design for Manufacture and Assembly*
+
+A practice that was created due to international competetion, efforts are made to reduce final production costs (which make up 70-80% of the end costs). To address this interdisciplinary teams work in *simultaneous engineering* to work at the same time. 
+
+**Design for Manufacture and Assembly Outline:**
+1. _Minimize number of total parts:_ Reduces cost, weight and complexity
+2. _Use a modular design:_ Makes automation easier if products are 4-8 modules.
+3. _Minimize part variations:_ Minimizes needs for specific non-standard pieces. Cost, time and complexity reduction.
+4. _Multi-Functional Designs:_ Work to make pieces serve in several different ways to reduce needs for more parts (Electrical board mount, heat sink, chassis, etc.) 
+5. _Multi-Functional Parts:_ Similar to modularity but have the individual parts interchangable.
+6. _Fabrication Simplification:_ Avoid designs that require parts to undergo secondary processes or surface treatments.
+7. _Avoid excessive use of fasteners:_ Reduces production complexity, error and cost ballooning.
+8. _Minimize assembly directions:_ In a literal sense, assemble products in one direction to reduce need to work around prior assembly (i.e. Up from the z-axis)
+9. _Maximize Compliance:_ Allow for as much tolerance as possible (where appropriate). Be generous with error bars.
+10. _Minimize Handling:_ Use parts that are easy to handle and position for assembly, create areas where it is easy to determine where the parts go. (Big cost savings)
+11. _Eliminate or simplify adjustments:_ Understand why an adjustment is required and work to redesign to negate their requirement. Adjustments on products are costly and can lend to a lot of error opportunity.
+12. _Avoid Flexible Components:_ Wires and other components can be difficult to handle, using parts that are not flexible will reduce opportunity for snags. Or cover them to avoid confusion.
+
+#### *1.3 - Other Important Design Considerations* 
+##### *1.3.1 - Product Use* 
+
+*The customer is always right* - Not really true but increasingly it is important to make products effective, safe, ergonomic, and idiot-proof. 
+
+The frequency of litigation (sometimes apparently malicious) is often a considerable issue which can be a problem even in cases when the customer is using the product inappropriately. Consider the ways in which a product can be **mis-used** along with more traditional product use considerations. 
+
+##### *1.3.2 - Design Life* 
+
+Equipment is used for a particular span of time and is designed to sustain wear and tear over those time periods, consider however if equipment is extended past those or is cannabilized to serve another purpose after it has eclipsed its certified period. This is a problem in terms of litigation. Courts are concerned with *forseeable* events, not misuse. 
+
+Also after the product has been retired, consider how it will be dismantled and either destroyed in a landfill or whether recyclable materials will be employed. 
+
+##### *1.3.3 - Human Factors Considerations* 
+
+Consider how user friendly the product is intended to be. Few people actually read user manuals for less obviously complicated devices, use of colors, modules and writing either on the product or elsewhere is encouraged to make the device less complicated. 
+
+Ergonomic data integration into devices is also important. (Average length of a human arm, hand size, font size of writing, etc.) 
+
+In ideal situations, products should act and feel like an extension of the operator, with the device not causing undue strain and maintenance being relatively simple (at least for common issues) 
+
+#### *1.4 - Advanced Technology in Design Process* 
+##### *1.4.1 - CAD/CAM* 
+
+Production time is one of the greatest issues in the design process. The introduction of electronic communication helped this but what really changed the landscape was CAD/CAM which reduced the conflicts between the design team and the manufacturing team in a big way. 
+
+Before, the design process was mostly sequential (outlined in 1.2) but with the advent of these softwares, design has become concurrent which has revolutionized design processes. 
+
+Advantages: 
+- Significant Cost Reductions
+- Much shorter design process
+- Quality improvements
+- Analytical and prototyping requirements reduced.
+- Design -> Manufacturing communication and vice versa significantly improved.
+- Fewer ECO (Engineering Change Order) required.
+
+More than just design CAD allows you to do analysis within the same software (Finite Element Analysis) and other software packages. 
+
+##### *1.4.2 - Solids or Surfaces* 
+
+CAD allows utilizing 2D or 3D space and something in between (2.5D) but these are able to be moved around and communicated between different peoples to utilize the data through the Intitial Graphics Exchange Standard (IGES). 
+
+There are two main kinds of solid generations which is Boundary Representation (BRep) and Constructive Solid Geometry (CSG):
+- BRep: Effectively stiches together different surfaces to make a larger solid (https://en.wikipedia.org/wiki/Boundary_representation)
+- CSG: Uses modular designs to add and subtract from each other with logic issues (Union, Differences and Intersections) (https://en.wikipedia.org/wiki/Constructive_solid_geometry)
+
+##### *1.4.3 - Computer-Integrated Manufacturing* 
+CIM has become critical overtime for managing large amounts of information on parts and procedures and industries that use this have greatly increased productivity. 
+
+(Document is likely out of date as it only describes events which are anticipated but have not occurred, at the time of the document) 
+
+#### *1.5 - Design Process* 
+
+Competition in the international sense is required in the modern day. Labor costs are the chief issue in more developed nations relative to those areas where imports are coming from, but the design process must offset this. The design process is centered around four concepts: 
+
+DP: 
+- Synthesis
+- Analysis
+- Material Selection
+- Testing
+
+But it is supported by different cogs of the system: 
+- Reliability
+- Maintainability
+- Dependability
+- Manufacturability
+- Cost Benefit
+- Availability
+
+### **Ch.2 - Manufacturing Design Projects**
