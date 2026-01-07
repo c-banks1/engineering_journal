@@ -70,4 +70,22 @@ End of story is, be respectful to the electricity and treat it like any other da
 
 Above is indicated the correct way to wire a home outlet with the black wire connected to the hot (small) side and the white wire connected to the neutral along with the ground connected to the well, ground. 
 
-Why this is important is because when the hot and neutral sides are reversed, 
+Why this is important is because when the hot and neutral sides are reversed, this can allow current to pass through hash filters in applications and destroy equipment. Most of the time these issues go un-noticed or the issue is not a serious one, however if the product is in a dangerous location like a damp basement, it can allow the current to flow to people or objects more easily. 
+
+Check the power cord every time that you are servicing equipment. Specifically look for current leakage, anything above 500 microA is too much and may indicate a problem. 
+
+#### Capacitor Hazards 
+
+Capacitor hazards are surprising simply because of what they are. They operate effectively as battery sources but where they differ from batteries is that the batteries have internal resistance which, if shorted prevent as much current as could go. Capacitors have virtually zero internal resistance and little to no leakage. 
+
+What this means is that a capacitor (large) could hold charge for years and shock unsuspecting people. 
+
+**Solution:** Take the time to discharge every large capacitor with ohm meters before servicing the unit. 
+
+#### Arcing
+
+It isn't thought about much but electricity has the ability to jump across space. Air is a conductor too, a poor one, but it is a conductor and if the voltage is high enough, voltage can jump across a range to make a person part of its circuit. 
+
+This issue grows in concern for both operator and equipment the more you increase the voltage. For reference 3kV can jump about 1/4 of an inch. 
+
+
