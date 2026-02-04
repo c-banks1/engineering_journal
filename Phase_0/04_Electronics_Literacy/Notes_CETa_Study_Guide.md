@@ -88,4 +88,76 @@ It isn't thought about much but electricity has the ability to jump across space
 
 This issue grows in concern for both operator and equipment the more you increase the voltage. For reference 3kV can jump about 1/4 of an inch. 
 
+#### Other Hazards 
 
+Environmental factors are a consistent consideration. Damp spaces or puddles like what might be in a basement or after a large storm are a threat. 
+
+Modern devices are considerably safer as they operate on much lower voltages (5-12V) and their dangerous components (power supply, filter capacitors, transformers, etc.) are secured behind a box that will need to be opened in order to access those components. 
+
+> Consider a "One-Hand Rule" when working on electrical devices, using one hand with another in a pocket while in contact with the device is safer because it is more difficult to close a circuit.
+> Never work alone. Work in parallel with another technician preferably or at least someone who can disconnect the power.
+
+Chemical exposure is another consideration. CETs work with often toxic compounds, ensure you are in a well ventilated area when working or use a respirator. Also ensure that you have eye protection. 
+
+> Fire hazards are a constant concern. When using a torch, or a soldering iron, or if you are in an environment where a short could produce a fire, these are considerations. Electrical fires require their own kind of extinguisher, but in the immediate, electrical burn injuries can produce anywhere from first to third degree burns in the wrong situations. 
+> 
+> - First Degree: Run burn under cold water and dry. Do not cover the burn
+> - Second Degree: Do not run under cold water and try not to break the blisters. Cover with a bandage and consider a doctor/urgent care center if needed.
+> - Third Degree: These are matters for doctors. The skin is totally dead and will not repair itself. Cover with a clean bandage and get the technician/person to a hospital.
+> 
+> Burned skin is more resistant than unburned skin and therefore a person who is burned may have a slightly better time as far as current is concerned. 
+
+On a less serious note, radiation is a consideration. Many individuals won't work in these environments but x-ray tubes are still active in vintage equipment. The effects of non-ionizing radiation are somewhat more nebulous and it is unclear their risk. Time will tell. 
+
+#### NEC
+
+The NEC (National Electrical Code) is the bible of US electricians and CETs. They are a series of rules devised to prevent injuries and fires which operate with electrical systems. 
+
+Their importance is two fold:
+1. Safety for workers, operators, customers is important
+2. OSHA looks very disfavorably on those who violate these rules and get people injured, often with great monetary consequences.
+
+NEMA (National Electrical Manufacturers Association) also has a series of rules about electrical device installation that may be pertinent to CET operations. 
+
+A big help with these rules and keeping people safe has to do with **Signage**. 
+
+There are many kinds of signs and their meanings but the general rule is, use signage to keep people who should not be a certain area out for their own safety and if there are people who will be in these environments, think about possible failure vectors that could crop up. A person falling (Manhole Sign), a tool falling on someone's head (Hard Hat Required), someone being shocked (High Voltage sign), etc. Imagine stupid things occurring and prevent that by using signs if possible. 
+
+#### ESD (Electro Static Discharge) and Other Operator Failure Modes
+
+Electro Static Discharge is a basically just static, but rather than being a nuisance that happens in dry environments like to most people, they can be extremely hazardous for components where a single static shock can mean the death of a large PCB. 
+
+Ways to prevent ESD is to ground the operator using a ESD wrist wrap that will carry away your charge through a 1 MOhm resistor and neutralize that risk. Another way is wearing booties that are connected to your skin, or working while standing or sitting on a composition pad that does the same thing. 
+
+Another failure mode is bad **soldering/unsoldering**. 
+
+Soldering is a delicate procedure and can destroy parts if one is not careful, particularly when the components that are being soldered are very delicate. 
+
+Repeated soldering exposes the component to high heat which has a nasty effect on components. When operating on devices, do more thinking and testing than replacing or you will likely end up having to get an entirely new device. 
+
+> Note: Keep in mind that legacy components have their own risks involved and handling them in the right way is required to avoid damage. Tubes particularly have a series of unique failure modes and can be risky particularly with implosion risk.
+
+#### Tools and Apparel 
+
+There are rarely places that have too much equipment. Use the right tool for the job, and make sure they are in good condition. A bad tool can be worse than no tool at all. 
+
+Using multimeters with leads that can grip is also a very helpful thing as you can focus on the reading rather than the leads moving. 
+
+Similarly equipment is only rated for certain voltages and currents and some are more sensitive than others. Keep in mind what your tools can and can't do. 
+
+As far as clothing and apparel, use clothing that is with an eye toward efficiency. Do not have loose anything; not hair, not clothes, not jewelry. Likewise, if you are working, wear work boots, steel toed if required. 
+
+#### First Aid 
+
+We touched on this earlier but just to reinforce the message. 
+
+##### CPR: 
+There is some uncertainty if this is appropriate but if a person has fallen into respiratory or cardiac arrest, then this is the time to do CPR. If you don't know it however, on the scene is not the time to learn. 
+
+##### General First Aid 
+
+Many trucks will have small first aid kits, nothing elaborate but they will have some equipment that can be used for minor injuries. An ounce of prevention is worth a pound of cure however, be careful on site, manage the risks in your environment, make sure your equipment (on or off the truck) is orderly and secure, if you get a call, pull to the side and answer it or call back later. Be cautious. 
+
+These are basic rules, the specifics of each site will be different, but the objective for CETs is to learn the basics and then to analyze and learn the risks of a particular site. 
+
+## Math for Electronics 
