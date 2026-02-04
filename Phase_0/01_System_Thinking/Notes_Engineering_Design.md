@@ -272,3 +272,49 @@ But it is supported by different cogs of the system:
 - Availability
 
 ### **Ch.2 - Manufacturing Design Projects**
+
+> "If the results are good it will be because the judgement of the managers has been good. The complete responsibility for success or failure is with the management."
+> - Henry Ford
+
+#### *2.1 - Extreme Ownership*
+Extreme ownership in management is the root to success. The workers are not responsible for the success or failure of a project. The manager is responsible. 
+
+The United States has fallen behind for a multitude of reasons, but one of those is that there exists to a large degree a culture of consumerism rather than "producerism" if the term exists. "Industry is the engine that makes America what it is (or what it was)". 
+
+A manager's most important characteristics is good judgement in his dealings. A good manager always uses the tools that he has on hand to better achieve he project. 
+
+#### *2.2 - Management Techniques* 
+
+The most important task of a manager is, "Effective utilization of the workforce." In other words utilizing the people they have in the best way to achieve the mission. 
+
+Managers must have: 
+- Technical Competence
+- People-Oriented Leadership Skills
+- Proficient Administrative/Businesss Ability
+
+The second most important thing for a manager is to eliminate fear in the workplace. Individual who operate based on fear are unlikely to communicate with management and are more likely to withhold methods that would optimize various business practices. Employees are useful because of their brains, not just automatons. This may result in conversations that are not always productive and can be frustrating but they are important. 
+
+The Japanese market has seemingly become a focus of success in the international market. Instruction by characteris like Edwards Deming, Joseph Juran, Genichi Taguchi and Philip Crosby reflect a direction toward Quality Management business strategy which builds a style of participative management rather than MBO (Management by Objectives) which has flaws like inflexibility, quanity over quality, and tunnel vision by employees. 
+
+##### *2.2.1 - Total Quality Management*
+
+Quality Management principles defined by those individuals outlined in section 2.2 tend to depend on the subject or area of management but some of the principles are outlined in the US Department of Defence *Total Quality Management* (TQM) which has outlined principles like: 
+
+1. Change in emphasis from defect correction to defect prevention
+2. Continuous improvement over acceptable quality
+3. Stabilization and improvement of products as opposed to intensive inspection
+4. Ensuring product conformance with quality parameters and elimination of waivers
+5. Contract awarding based on optimum life-cost rather than lowest bidder
+6. Transition from cost and schedule concerns to "Quality, Cost and Schedule" concerns
+
+This is a challenging task and can only be achieved by commitment by the management and statistical process control which promotes standardized processes (also called Constancy of Purpose). There are also some other precepts that are associated with this process. 
+
+1. Improved Quality = Higher Profits and Lower Costs
+2. Poor Process or System Behaviors cause roughly 85% of problems in an industry.
+3. Management is required to improve the system
+4. Employees will be looking for flaws in the product and system and will halt them.
+5. Suppliers are critical and should be selected on their reliablity and quality not the cost alone.
+6. Everyone should know the basics of statistical quality control
+7. Numerical quotas for the work force, numerical goals for management, annual rating and merit systems should be eliminated.
+8. Training and self-improvement should be instituted for all employees.
+
