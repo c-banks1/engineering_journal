@@ -318,3 +318,24 @@ This is a challenging task and can only be achieved by commitment by the managem
 7. Numerical quotas for the work force, numerical goals for management, annual rating and merit systems should be eliminated.
 8. Training and self-improvement should be instituted for all employees.
 
+*****
+
+One tool that is used to help balance quality requirements, process standarization, and customer wants/desires is called the orthogonal array or decision matrix. These arrays are used to investigate specific methods, components and otherwise which might help reduce costs and improve quality in the production process. Analysis of the effects of these measures is a statistical process called *Analysis of Variance* (ANOVA) which is used to show differences in performance in components and subsystems. 
+
+> *What/How Orthogonal Array* 
+> An Taguchi Orthogonal Array is a method of organizing observed relationships and experimentation plans with respect to a series of limited parameters of experimentation (temperature, humidity, device, etc.).
+> <img width="474" height="635" alt="image" src="https://github.com/user-attachments/assets/2f672437-c5e5-4b4a-81e5-f4c598a67eec" />
+
+> ***** 
+> These experimentation arrays are fitted into a larger array (at least in Ford's case) called a Quality House Orthogonal Array). These arrays compare the customer wants and desires and how much they correlate and seem to matter to the customer. This better allows the team to prioritize the various areas. 
+> <img width="1500" height="1170" alt="image" src="https://github.com/user-attachments/assets/4e53be6e-4e7e-47f7-97c7-f291c5f3c7e6" />
+
+
+#### *2.3 - Effective Project Management* 
+
+**Project Parameters**
+
+A project must have: 
+- A set project time (Date Start --> Date Stop)
+- Specific Measureable Objectives
+- Managerial Oversight 
