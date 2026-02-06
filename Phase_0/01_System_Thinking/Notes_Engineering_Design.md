@@ -338,4 +338,22 @@ One tool that is used to help balance quality requirements, process standarizati
 A project must have: 
 - A set project time (Date Start --> Date Stop)
 - Specific Measureable Objectives
+-   All Members must know what the objectives are and agree to the mission
 - Managerial Oversight 
+
+Project Management Processes: 
+1. Planning: Time tables and who does what
+2. Directing: Carrying out plans through others
+3. Controlling: Monitoring and taking action to see development of objectives
+4. Administrating: Developing operational and personnel policies that are in line with the mission and preset standards
+
+#### *2.4 - Planning and Scheduling the Effort*
+
+##### *2.4.1 - Gantt Chart*
+<img width="1800" height="1391" alt="image" src="https://github.com/user-attachments/assets/cb2b8e9d-1d76-4174-838d-29d48f19829f" />
+
+Gantt Charts are useful project management tools that show the balance of activity versus time and their intersection with other parts of the project. 
+
+These are flexible, can be compressed to show large periods of time or expanded to show individual tasks on a day by day activity schedule. They are also extremely useful to show correlation between different activities and to balance a time table more easily. 
+
+##### *2.4.2 - PERT Networks* 
