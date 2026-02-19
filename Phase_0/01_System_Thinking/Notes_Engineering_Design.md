@@ -357,3 +357,8 @@ Gantt Charts are useful project management tools that show the balance of activi
 These are flexible, can be compressed to show large periods of time or expanded to show individual tasks on a day by day activity schedule. They are also extremely useful to show correlation between different activities and to balance a time table more easily. 
 
 ##### *2.4.2 - PERT Networks* 
+
+PERT is a modern day umbrella term for scheduling programs that show inter-related tasks. Initially it was associated with the US Navy Polaris Missle System. 
+
+##### *2.4.3 - Critical Path Method (CPM)* 
+
